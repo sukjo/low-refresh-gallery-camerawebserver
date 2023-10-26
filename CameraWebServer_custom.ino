@@ -18,7 +18,7 @@
 const char* ssid = "*******"; // REPLACE WITH YOUR SSID (WIFI)
 const char* password = "********"; // REPLACE WITH YOUR SSID PW
 
-String serverName = "192.168.1.248";   // REPLACE WITH YOUR Raspberry Pi IP ADDRESS
+String serverName = "*******";   // REPLACE WITH YOUR Raspberry Pi IP ADDRESS
 //String serverName = "example.com";   // OR REPLACE WITH YOUR DOMAIN NAME
 
 String serverPath = "/upload.php";     // The default serverPath should be upload.php
